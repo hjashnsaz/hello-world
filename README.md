@@ -1,2 +1,2 @@
 # hello-world
-This is Hossein, here to start Github, and change the wWorld! How about that, Huh?
+This is Hossein, here to start Github, and change the World! How about that, Huh?
